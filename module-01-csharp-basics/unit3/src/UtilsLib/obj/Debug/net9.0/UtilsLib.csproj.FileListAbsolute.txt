@@ -1,0 +1,12 @@
+C:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\unit3\src\UtilsLib\bin\Debug\net9.0\UtilsLib.deps.json
+C:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\unit3\src\UtilsLib\bin\Debug\net9.0\UtilsLib.dll
+C:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\unit3\src\UtilsLib\bin\Debug\net9.0\UtilsLib.pdb
+C:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\unit3\src\UtilsLib\obj\Debug\net9.0\UtilsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\unit3\src\UtilsLib\obj\Debug\net9.0\UtilsLib.AssemblyInfoInputs.cache
+C:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\unit3\src\UtilsLib\obj\Debug\net9.0\UtilsLib.AssemblyInfo.cs
+C:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\unit3\src\UtilsLib\obj\Debug\net9.0\UtilsLib.csproj.CoreCompileInputs.cache
+C:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\unit3\src\UtilsLib\obj\Debug\net9.0\UtilsLib.sourcelink.json
+C:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\unit3\src\UtilsLib\obj\Debug\net9.0\UtilsLib.dll
+C:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\unit3\src\UtilsLib\obj\Debug\net9.0\refint\UtilsLib.dll
+C:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\unit3\src\UtilsLib\obj\Debug\net9.0\UtilsLib.pdb
+C:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\unit3\src\UtilsLib\obj\Debug\net9.0\ref\UtilsLib.dll
