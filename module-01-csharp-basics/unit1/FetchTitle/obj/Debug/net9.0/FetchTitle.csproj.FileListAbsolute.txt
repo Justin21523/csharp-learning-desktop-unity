@@ -1,0 +1,15 @@
+c:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\FetchTitle\bin\Debug\net9.0\FetchTitle.exe
+c:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\FetchTitle\bin\Debug\net9.0\FetchTitle.deps.json
+c:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\FetchTitle\bin\Debug\net9.0\FetchTitle.runtimeconfig.json
+c:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\FetchTitle\bin\Debug\net9.0\FetchTitle.dll
+c:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\FetchTitle\bin\Debug\net9.0\FetchTitle.pdb
+c:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\FetchTitle\obj\Debug\net9.0\FetchTitle.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\FetchTitle\obj\Debug\net9.0\FetchTitle.AssemblyInfoInputs.cache
+c:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\FetchTitle\obj\Debug\net9.0\FetchTitle.AssemblyInfo.cs
+c:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\FetchTitle\obj\Debug\net9.0\FetchTitle.csproj.CoreCompileInputs.cache
+c:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\FetchTitle\obj\Debug\net9.0\FetchTitle.sourcelink.json
+c:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\FetchTitle\obj\Debug\net9.0\FetchTitle.dll
+c:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\FetchTitle\obj\Debug\net9.0\refint\FetchTitle.dll
+c:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\FetchTitle\obj\Debug\net9.0\FetchTitle.pdb
+c:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\FetchTitle\obj\Debug\net9.0\FetchTitle.genruntimeconfig.cache
+c:\Users\b0979\OneDrive\Document\csharp-learning-desktop-unity\module-01-csharp-basics\FetchTitle\obj\Debug\net9.0\ref\FetchTitle.dll
