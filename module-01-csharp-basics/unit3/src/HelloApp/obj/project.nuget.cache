@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r8U0xnh3yOQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\b0979\\OneDrive\\Document\\csharp-learning-desktop-unity\\module-01-csharp-basics\\unit3\\src\\HelloApp\\HelloApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b0979\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
